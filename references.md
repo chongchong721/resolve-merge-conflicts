@@ -1,3 +1,6 @@
-# conflict reference
-- conflict 1
-- conflict 2
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
+
